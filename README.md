@@ -1,14 +1,24 @@
-# 👋 Hey there, I'm Khushboo!
+# 👋 Hey there, I'm Khushboo! PhD Student @ KAIST (Data Science)  
 
-### 🎓 PhD Student | KAIST 🇰🇷 | AI & Machine Learning Enthusiast
+> Climate–health time-series | DLNM + GLM | Reproducible R/Python pipelines | XAI & Computer Vision for biodiversity
 
-💡 Currently preparing to start my PhD journey at KAIST, diving deep into machine learning, computer vision, and AI research. As an international student at KAIST, I’m excited to explore cutting-edge AI techniques and their applications in sustainability, conservation, and beyond. 🚀
+Currently I am studing how seasonality and temperature shape health outcomes and how we can model these signals at scale. My work blends classical statistics with modern ML to build **transparent, reproducible** analyses. **Methods**: distributed lag non-linear models (DLNM), quasi-Poisson GLMs, cyclic B-splines, meta-analysis (fixed/random/mixed)  
+
+
+## 🔭 Current focus
+- **Climate–health seasonality at scale**  
+  - City-level DLNM + GLM with seasonal splines, pooled to country level  
+  - Reproducible pipelines with clear artifacts: `coef/`, `vcov/`, `pred/`, logs, and QA checks
+
+- **Explainable CV for biodiversity**  
+  - Lightweight CNN baselines → transfer learning → Grad-CAM/SHAP comparisons  
+  - Curriculum-ready notebooks and clean inference scripts
 
 **🔍 Always exploring: How can AI & data science be used for social good? 🌍**
 
 ### 🚀 What I’m Up To
 
-🎓 Starting my PhD in Data Science at KAIST (Research area: TBD, but super excited!)
+🎓 Started my PhD in Data Science at KAIST (Second semester)
 
 🤖 Exploring AI for biodiversity conservation, deep learning & Explainable AI (XAI)
 
